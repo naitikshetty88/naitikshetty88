@@ -2,7 +2,7 @@
 
 ### Cybersecurity Graduate Student | Security Operations Center Analyst
 
-I am a cybersecurity graduate student at The George Washington University (GWU) pursuing a degree in Cybersecurity in Computer Science. I have several years of experience in Security Operations, incident response, vulnerability management, and threat hunting. My passion lies in safeguarding digital environments, implementing industry best practices, and contributing to a secure technological landscape.  Offering 4 years of experience in industry with history of recognition for performance.
+I am a cybersecurity graduate from The George Washington University (GWU) with a degree in Cybersecurity in Computer Science. I have several years of experience in Security Operations, incident response, vulnerability management, and threat hunting. My passion lies in safeguarding digital environments, implementing industry best practices, and contributing to a secure technological landscape.  Offering 4 years of experience in industry with history of recognition for performance.
 
 ---
 
