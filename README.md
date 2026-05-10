@@ -101,7 +101,7 @@ I am a cybersecurity graduate from The George Washington University (GWU) with a
 - **LinkedIn**: [Naitik Shetty](https://www.linkedin.com/in/naitik-shetty-37aa04144/)  
 - **Handshake**: [Link](https://gwu.joinhandshake.com/profiles/xunm6s)  
 - **GitHub**: [Link](https://github.com/naitikshetty88)
-- *Location*: Arlington, VA - 22206
+- *Location*: Alpharetta, GA - 30005
 
 ---
 
