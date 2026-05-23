@@ -2,7 +2,7 @@
 
 ### Cybersecurity Graduate Student | Security Operations Center Analyst
 
-I am a cybersecurity graduate from The George Washington University (GWU) with a degree in Cybersecurity in Computer Science. I have several years of experience in Security Operations, incident response, vulnerability management, and threat hunting. My passion lies in safeguarding digital environments, implementing industry best practices, and contributing to a secure technological landscape.  Offering 4 years of experience in industry with history of recognition for performance.
+I am a cybersecurity graduate from The George Washington University (GWU) with a degree in Cybersecurity in Computer Science and CompTIA certified Security Analytics Professional. I have several years of experience in Security Operations, incident response, vulnerability management, and threat hunting. My passion lies in safeguarding digital environments, implementing industry best practices, and contributing to a secure technological landscape.  Offering 4 years of experience in industry with history of recognition for performance.
 
 ---
 
@@ -46,7 +46,9 @@ I am a cybersecurity graduate from The George Washington University (GWU) with a
 - Ubuntu-based Linux Distributions
 
 #### Certifications
+- CY0-003 CompTIA CySA+
 - SY0-701 CompTIA Security+
+- Splunk Core Certified Power User
 - Google Cybersecurity
 - Google Cloud Cybersecurity
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals
